@@ -15,9 +15,7 @@ Python, CSV processing, basic data analysis
 
 ## How to Run
 
-```
-python main.py
-```
+Run main.py
 
 ## Purpose
 
